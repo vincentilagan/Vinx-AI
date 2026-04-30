@@ -120,6 +120,6 @@ GPL-3.0 — free to use, modify, and distribute.
 ## Author
 
 **Vincent Ilagan**
-[vixels.site](https://vixels.site) · [vfxverse25@gmail.com](mailto:vfxverse25@gmail.com)
+[vixels.site]([https://vixels.site](https://vixels.site/vinx-ai/) · [vfxverse25@gmail.com](mailto:vfxverse25@gmail.com)
 
 If this tool helped you, consider supporting via PayPal — my mother is currently hospitalized and every bit helps. Thank you.
