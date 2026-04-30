@@ -40,7 +40,7 @@ No coding required. Just bring your API key.
 
 **Blender 4.2+ (Extensions)**
 
-1. Download `Vinx-AI.zip` from the [releases page](https://github.com/yourusername/VinX-AI/releases) or [vixels.site/vinx-ai](https://vixels.site/vinx-ai/)
+1. Download `Vinx-AI.zip` from the [releases page](https://github.com/vincentilagan/Vinx-AI/releases/latest) or [vixels.site/vinx-ai](https://vixels.site/vinx-ai/)
 2. Open Blender → Edit → Preferences → Add-ons → Install from Disk
 3. Select the zip file → Enable the addon
 
@@ -120,6 +120,6 @@ GPL-3.0 — free to use, modify, and distribute.
 ## Author
 
 **Vincent Ilagan**
-[vixels.site]([https://vixels.site](https://vixels.site/vinx-ai/) · [vfxverse25@gmail.com](mailto:vfxverse25@gmail.com)
+[vixels.site/vinx-ai](https://vixels.site/vinx-ai/) · [vfxverse25@gmail.com](mailto:vfxverse25@gmail.com)
 
 If this tool helped you, consider supporting via PayPal — my mother is currently hospitalized and every bit helps. Thank you.
